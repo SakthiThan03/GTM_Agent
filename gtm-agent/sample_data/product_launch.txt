@@ -1,0 +1,11 @@
+PRODUCT BRIEF — TripSpark (FICTIONAL DEMO PRODUCT)
+Product: TripSpark, an event-centered trip planning web app.
+Launch date: December 1, 2026 (illustrative only; not an actual scheduled launch).
+Description: Plan travel around concerts and sporting events from one place.
+Features: Search events, compare flight options, browse hotels, see estimated total trip cost, and check a trip against a user-set budget.
+Audience: US sports fans and concertgoers aged 18–35 who travel for events.
+Differentiator: Brings event discovery and trip-budget planning together in a single workflow.
+Tone: Friendly, energetic, practical, transparent about price estimates.
+CTA: Join the early-access waitlist at [INSERT REAL URL].
+Claims to avoid: guaranteed lowest prices, confirmed inventory, instant booking, claims of partnerships, or specific savings percentages.
+Brand notes: Do not suggest that flights, hotels, or tickets are booked inside TripSpark. Prices and availability may change.
